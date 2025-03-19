@@ -28,3 +28,24 @@ Comportamento atual:
 
 O aplicativo exibe apenas a mensagem: "Você não está ativo em nenhuma rede credenciada," sem indicar as pendências específicas (contrato e questionário).
 Isso pode gerar confusão e impactar negativamente a experiência do usuário.
+
+✅ Cenário de Teste 
+
+Pré-requisitos
+Passos
+Resultado esperado
+Resultado obtido
+
+✅ Severidade e Prioridade
+
+Severidade: Alta (Impede acesso ao sistema)
+Prioridade: Alta (Usuário não consegue utilizar o serviço principal
+
+✅ Possível Causa (Hipótese)
+
+Falta de integração das informações de pendência entre o front-end (app) e o back-end/sistema web.
+
+✅ Sugestão de melhoria (Feature Request)
+
+Exibir pendências no app.
+Permitir o preenchimento do questionário e assinatura dos termos direto pelo aplicativo.
