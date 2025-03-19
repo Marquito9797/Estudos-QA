@@ -1,0 +1,30 @@
+Bug Report – Acesso Bloqueado por Pendência Não Informada no Aplicativo Skyfit
+
+Descrição do problema:
+
+Após realizar a assinatura de um novo plano e tentar acessar o aplicativo para acompanhar meus treinos, recebi a seguinte mensagem de erro:
+
+"Você não está ativo em nenhuma rede credenciada."
+
+No entanto, estou frequentando normalmente a academia da rede credenciada e meu plano estava ativo.
+
+Entrei em contato diretamente com a recepção da academia para informar o erro. Fui orientado de que era necessário assinar os termos de uso enviados por e-mail, uma informação que não consta em nenhuma mensagem no aplicativo.
+
+Assinei o contrato via e-mail, mas a mesma mensagem de erro continuou aparecendo no app. Apenas após acessar minha conta via web, fui informado de que havia um questionário de saúde pendente. Somente após responder a esse questionário, consegui acessar o aplicativo normalmente.
+
+Passos para reproduzir:
+
+Realizar a assinatura de um novo plano.
+Tentar acessar o aplicativo Skyfit.
+Receber a mensagem: "Você não está ativo em nenhuma rede credenciada."
+Assinar o contrato via e-mail (sem sucesso em acessar o app após isso).
+Acessar a conta via web e verificar a pendência do questionário de saúde.
+Responder ao questionário para então liberar o acesso ao app.
+Comportamento esperado:
+
+Ao tentar acessar o aplicativo, o sistema deveria informar de forma clara que há pendências, como a assinatura dos termos de uso enviados por e-mail e o preenchimento do questionário de saúde.
+O ideal seria permitir que tanto a assinatura dos termos quanto o questionário fossem acessíveis e resolvidos diretamente pelo aplicativo, sem a necessidade de acessar a versão web.
+Comportamento atual:
+
+O aplicativo exibe apenas a mensagem: "Você não está ativo em nenhuma rede credenciada," sem indicar as pendências específicas (contrato e questionário).
+Isso pode gerar confusão e impactar negativamente a experiência do usuário.
